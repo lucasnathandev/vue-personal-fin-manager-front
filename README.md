@@ -48,7 +48,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - GraphQL API (NodeJS)
 - Prisma IO (Client and Server): overwrite the traditional ORM's, DAL(Data Access Layer)
-- GraphQL Yoga: Complete GraphQL server with focus on easy configuration,performance and excellent developer experience.
+- GraphQL Yoga: Fully-featured GraphQL server with focus on easy configuration,performance and excellent developer experience.
 - JWT Authentication: JSON Web Token and bcrypt for password encrypt.
 - Moment JS: handle Dates.
 
